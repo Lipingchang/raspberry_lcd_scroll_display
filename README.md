@@ -2,6 +2,10 @@
 A simple Python library for displaying text on the LCD 1602 w/ I2C. Implemented on the **Raspberry Pi** 3 B.
 
 ## Simple Example
+```bash
+python multiprocess.py 'hello-my-fucking-world'
+```
+
 ```python
 from LCD import LCD
 
